@@ -1,0 +1,6 @@
+{
+  "name": "EduPlay SD - Generator Game & Kuis Edukasi Interaktif",
+  "description": "Generator prompt game edukasi interaktif untuk anak SD dengan background cerita imersif, sistem reward poin & badge, leaderboard global/kelas, mode smart board, deteksi gesture kamera, dan multiplayer.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
